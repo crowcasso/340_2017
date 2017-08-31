@@ -119,7 +119,7 @@ store either a value of a particular type or no value at all.
  - Callout(Hands-On #0.0):
  Learn more about creating and using variables in Swift.
  */
-var helloStr = "Hello, world"
+var helloStr : String = "Hello, world"
 
 /*:
  - Callout(Hands-On #0.1):
