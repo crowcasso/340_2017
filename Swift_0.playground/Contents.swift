@@ -120,18 +120,23 @@ store either a value of a particular type or no value at all.
  Learn more about creating and using variables in Swift.
  */
 var helloStr : String = "Hello, world"
-
+let number0 : Int = 42
 /*:
  - Callout(Hands-On #0.1):
  What is the difference between `var` and `let`?
  */
+// var is a variable
+helloStr += "!"
+print(helloStr)
 
+// let is a constant
+// number0 = 12  // <<-- This throws an error
 
 /*:
  - Callout(Hands-On #0.2):
  Learn about type inference (and how to specify type).
  */
-
+var 
 
 /*:
  ## Collection Types
@@ -141,7 +146,19 @@ var helloStr : String = "Hello, world"
  - Callout(Hands-On #0.3):
  An array is an ordered collection of elements. Arrays can contain elements of any type: a standard type, a structure, or a class. Arrays are strongly typed.
  */
+var myArray : Array<Int>
+myArray = [1, 2, 3, 4, 5, 6]
+print(myArray)
+print(myArray.count)
 
+myArray.append(7)
+print(myArray)
+
+var myArray2 = [Int]()
+print(myArray2)
+
+var myArray3 = [10, 11, 12, 9, 8, 7]
+print(myArray3)
 
 /*:
  - Callout(Hands-On #0.4):
@@ -174,6 +191,11 @@ var helloStr : String = "Hello, world"
  - Callout(Hands-On #0.8):
  Initializers are responsible for initializing the contents of a new instance of a type.
  */
+var num2 = Int()
+print(num2)
+
+var bool2 = Bool()
+print(bool2)
 
 
 /*:
@@ -195,7 +217,9 @@ var helloStr : String = "Hello, world"
  - Callout(Hands-On #0.11):
  Swift types can be optional, which is indicated by appending `?` to any type name. An optional lets you express the possibility that a variable may not store a value at all. The value of an optional will either be an instance of the specified type or `nil`.
  */
-
+var num3 : Int?
+num3 = 78
+print(num3!)
 
 /*:
  - Callout(Hands-On #0.12):
@@ -217,13 +241,19 @@ var helloStr : String = "Hello, world"
  - Callout(Hands-On #0.14):
  Swift 3 discontinued the use of the traditional C-style for loop (and increment/decrement).
  */
-let numbers = [1, 2, 3, 4, 5, 6, 7]
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 
 /*:
  - Callout(Hands-On #0.15):
  The most direct route would be to enumerate the items.
  */
+for i in 0..<numbers.count {
+    print(numbers[i])
+}
 
+for num in numbers {
+    print("The number is \(num) plus \(num + 1)")
+}
 
 /*:
  - Callout(Hands-On #0.16):
