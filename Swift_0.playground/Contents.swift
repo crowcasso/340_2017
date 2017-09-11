@@ -119,12 +119,15 @@ store either a value of a particular type or no value at all.
  - Callout(Hands-On #0.0):
  Learn more about creating and using variables in Swift.
  */
+
 var helloStr : String = "Hello, world"
 let number0 : Int = 42
+
 /*:
  - Callout(Hands-On #0.1):
  What is the difference between `var` and `let`?
  */
+
 // var is a variable
 helloStr += "!"
 print(helloStr)
@@ -136,7 +139,9 @@ print(helloStr)
  - Callout(Hands-On #0.2):
  Learn about type inference (and how to specify type).
  */
-var 
+
+let number1 = 43.0
+let condition = true
 
 /*:
  ## Collection Types
@@ -154,6 +159,11 @@ print(myArray.count)
 myArray.append(7)
 print(myArray)
 
+/*:
+ - Callout(Hands-On #0.4):
+ There is a shorthand syntax for declaring arrays.
+ */
+
 var myArray2 = [Int]()
 print(myArray2)
 
@@ -161,28 +171,32 @@ var myArray3 = [10, 11, 12, 9, 8, 7]
 print(myArray3)
 
 /*:
- - Callout(Hands-On #0.4):
- There is a shorthand syntax for declaring arrays.
- */
-
-
-/*:
  - Callout(Hands-On #0.5):
  A dictionary is an unordered collection of key-value pairs. The values can be of any type. The keys can be of any type, but they must be unique (specifically, the keys must be hashable).
  */
 
+var dictionary0 : Dictionary<String, Int>
+dictionary0 = ["one":1, "two":2, "three":3]
+
+print(dictionary0["one"])
 
 /*:
  - Callout(Hands-On #0.6):
  There is a shorthand syntax for declaring dictionaries.
  */
 
+var dictionary1: [String:Int]
 
 /*:
  - Callout(Hands-On #0.7):
  A set is similar to an array in that is contains a number of elements of a certain type. However, sets are unordered, and the members must be unique as well as hashable.
  */
 
+var set0 : Set<Int> = [1, 3, 5]
+set0.insert(7)
+set0.insert(1) // valid statement, but 1 is already part of the set
+
+print(set0)
 
 /*:
  ## Initializers, Properties, and Instance Methods
@@ -203,12 +217,14 @@ print(bool2)
  A property is a value associated with an instance of a type.
  */
 
+print(myArray3.count)
 
 /*:
  - Callout(Hands-On #0.10):
  An instance method is a function that is specific to a particular type and can be called on an instance of that type.
  */
 
+myArray3.removeAll()
 
 /*:
  ## Optionals
@@ -217,21 +233,28 @@ print(bool2)
  - Callout(Hands-On #0.11):
  Swift types can be optional, which is indicated by appending `?` to any type name. An optional lets you express the possibility that a variable may not store a value at all. The value of an optional will either be an instance of the specified type or `nil`.
  */
+
 var num3 : Int?
 num3 = 78
-print(num3!)
+print(num3)
 
 /*:
  - Callout(Hands-On #0.12):
  Before you can read the value of an optional variable, you must address the possibility of its value being `nil`. This is called unwrapping the optional.
  */
 
+print(num3!)
 
 /*:
  - Callout(Hands-On #0.13):
  A safer way to unwrap an optional is optional binding. Optional binding works within a conditional if-let statement: You assign the optional to a temporary constant of the corresponding of the corresponding non-optional type.
  */
-
+//num3 = nil  // try this and see what happens
+if let n3 = num3 {
+    print(n3)
+} else {
+    print("num3 is nil")
+}
 
 /*:
  ## Loops and String Interpolation
@@ -247,9 +270,6 @@ let numbers = [1, 2, 3, 4, 5, 6, 7, 8]
  - Callout(Hands-On #0.15):
  The most direct route would be to enumerate the items.
  */
-for i in 0..<numbers.count {
-    print(numbers[i])
-}
 
 for num in numbers {
     print("The number is \(num) plus \(num + 1)")
@@ -260,19 +280,29 @@ for num in numbers {
  What if you wanted the index of each item?
  */
 
+for i in 0..<numbers.count {
+    print(numbers[i])
+}
 
 /*:
  - Callout(Hands-On #0.17):
  You can use tuples with dictionaries.
  */
+
 let nameByParkingSpace = [13: "Alice", 27: "Bob"]
 
+for (space, name) in nameByParkingSpace {
+    print(name)
+}
 
 /*:
  - Callout(Hands-On #0.18):
  Use string interpolation to build useful strings.
  */
 
+for (space, name) in nameByParkingSpace {
+    print("Space \(space): \(name)")
+}
 
 /*:
  ## Enumerations and the Switch Statement
