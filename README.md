@@ -6,7 +6,7 @@
 * [Program 0](http://trumpy.cs.elon.edu/joel/340/Program_0.pdf) (due to [Dropbox](https://www.dropbox.com/request/Ol7h2u3KpQi8qvTzXta5) by 23:59 TH 9/7)
 
 ### Images:
-* [playing card assests](https://github.com/hayeah/playing-cards-assets)
+* [playing card assets](https://github.com/hayeah/playing-cards-assets)
 * [ace_of_spaces.png](http://trumpy.cs.elon.edu/joel/340/ace_of_spades.png)
 * [back_of_card.png](http://trumpy.cs.elon.edu/joel/340/back_of_card.png)
 
