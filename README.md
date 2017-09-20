@@ -11,7 +11,7 @@
 ### Images:
 * [playing card assets](https://github.com/hayeah/playing-cards-assets)
 * [ace_of_spaces.png](http://trumpy.cs.elon.edu/joel/340/ace_of_spades.png)
-* [back_of_card.png](http://trumpy.cs.elon.edu/joel/340/back_of_card.png)
+* [back_of_card.png](http://trumpy.cs.elon.edu/joel/340/back_of_card.png) (updated size! use this one)
 
 ### Reading:
 * [The Swift Language (ePub)](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub) -- The Basics --> Implicitly Unwrapped Optionals (p. 53-93)
