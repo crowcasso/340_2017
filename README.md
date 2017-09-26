@@ -13,6 +13,8 @@
 * [playing card assets](https://github.com/hayeah/playing-cards-assets)
 
 ### Reading:
+* [Understanding Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
+* [Working with Constraints in Interface Builder](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithConstraintsinInterfaceBuidler.html#//apple_ref/doc/uid/TP40010853-CH10-SW1)
 * [The Swift Language (ePub)](https://swift.org/documentation/TheSwiftProgrammingLanguage(Swift4).epub) -- The Basics --> Implicitly Unwrapped Optionals (p. 53-93)
 
 ### Syllabus:
