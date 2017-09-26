@@ -10,7 +10,7 @@
 * [Three Cards](https://github.com/crowcasso/ThreeCards) (w/ Card class)
 
 ### Images:
-* [playing card assets](https://github.com/hayeah/playing-cards-assets)
+* [Playing Card Assets](https://github.com/hayeah/playing-cards-assets)
 
 ### Discussion Forum:
 * [Elon Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
