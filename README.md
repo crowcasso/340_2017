@@ -12,6 +12,9 @@
 ### Images:
 * [playing card assets](https://github.com/hayeah/playing-cards-assets)
 
+### Discussion Forum:
+* [Elon Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
+
 ### Reading:
 * [Understanding Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
 * [Working with Constraints in Interface Builder](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithConstraintsinInterfaceBuidler.html#//apple_ref/doc/uid/TP40010853-CH10-SW1)
