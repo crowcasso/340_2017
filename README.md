@@ -13,7 +13,7 @@
 * [Playing Card Assets](https://github.com/hayeah/playing-cards-assets)
 
 ### Discussion Forum:
-* [Elon Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
+* [ElonCS Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
 
 ### Reading:
 * [Understanding Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
