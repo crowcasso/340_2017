@@ -11,6 +11,7 @@
 
 ### Images:
 * [Playing Card Assets](https://github.com/hayeah/playing-cards-assets)
+* [ball.png](http://trumpy.cs.elon.edu/340/ball.png)
 
 ### Discussion Forum:
 * [ElonCS Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
