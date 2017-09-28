@@ -7,7 +7,7 @@
 * [Program 0](http://trumpy.cs.elon.edu/joel/340/Program_0.pdf) (due to [Dropbox](https://www.dropbox.com/request/Ol7h2u3KpQi8qvTzXta5) by 23:59 TH 9/7)
 
 ### Code:
-* [Three Cards](https://github.com/crowcasso/ThreeCards) (random cards, no tapping yet)
+* [Three Cards](https://github.com/crowcasso/ThreeCards) (final version!)
 
 ### Images:
 * [Playing Card Assets](https://github.com/hayeah/playing-cards-assets)
