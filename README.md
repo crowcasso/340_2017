@@ -13,6 +13,8 @@
 ### Images:
 * [Playing Card Assets](https://github.com/hayeah/playing-cards-assets)
 * [ball.png](http://trumpy.cs.elon.edu/joel/340/ball.png) (now with a transparent background)
+* [location.png](http://trumpy.cs.elon.edu/joel/340/location.png)
+* [redPin.png](http://trumpy.cs.elon.edu/joel/340/redPin.png)
 
 ### Discussion Forum:
 * [ElonCS Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
