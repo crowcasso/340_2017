@@ -9,6 +9,7 @@
 ### Code:
 * [Three Cards](https://github.com/crowcasso/ThreeCards) (final version!)
 * [Rollerball](https://github.com/crowcasso/Rollerball) (ball w/ transparent background)
+* [Card Flip](https://github.com/crowcasso/CardFlip)
 
 ### Images:
 * [Playing Card Assets](https://github.com/hayeah/playing-cards-assets)
