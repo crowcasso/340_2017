@@ -22,6 +22,7 @@
 * [ElonCS Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
 
 ### Reading:
+* [Extensions](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Extensions.html)
 * [Swift Guard Statement](https://ericcerney.com/swift-guard-statement/)
 * [Understanding Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
 * [Working with Constraints in Interface Builder](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithConstraintsinInterfaceBuidler.html#//apple_ref/doc/uid/TP40010853-CH10-SW1)
