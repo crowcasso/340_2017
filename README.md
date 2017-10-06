@@ -20,7 +20,7 @@
 * [redPin.png](http://trumpy.cs.elon.edu/joel/340/redPin.png)
 
 ### Possibly Useful Stuff:
-* [elonNC.gpx](http://trumpy.cs.elon.edu/joel/340/elonNC.gpx)
+* [elonNC.gpx](http://trumpy.cs.elon.edu/joel/340/elonNC.gpx) (Thanks Parker!)
 
 ### Discussion Forum:
 * [ElonCS Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
