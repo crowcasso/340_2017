@@ -19,6 +19,9 @@
 * [location.png](http://trumpy.cs.elon.edu/joel/340/location.png)
 * [redPin.png](http://trumpy.cs.elon.edu/joel/340/redPin.png)
 
+### Possibly Useful Stuff:
+* [elonNC.gpx](http://trumpy.cs.elon.edu/joel/340/elonNC.gpx)
+
 ### Discussion Forum:
 * [ElonCS Slack Channel --> Mobile](https://eloncs.slack.com/messages/mobile)
 
