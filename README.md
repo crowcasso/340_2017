@@ -6,6 +6,9 @@
 * [Program 1](http://trumpy.cs.elon.edu/joel/340/Program_1.pdf) (due to [Dropbox](https://www.dropbox.com/request/2XzyPIcqWSRQzQDi6OG2) by 23:59 T 9/19)
 * [Program 0](http://trumpy.cs.elon.edu/joel/340/Program_0.pdf) (due to [Dropbox](https://www.dropbox.com/request/Ol7h2u3KpQi8qvTzXta5) by 23:59 TH 9/7)
 
+### Tutorials:
+* [Multitouch Tutorial](https://paper.dropbox.com/doc/Multitouch-Tutorial-1rM9Hx5wCPZOUGEscPx9O?_tk=share_copylink)
+
 ### Code:
 * [Three Cards](https://github.com/crowcasso/ThreeCards) (final version!)
 * [Rollerball](https://github.com/crowcasso/Rollerball) (ball w/ transparent background)
