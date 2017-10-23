@@ -12,8 +12,8 @@
 
 ### Code:
 * [Multitouch](https://github.com/crowcasso/Multitouch)
-* [Three Cards](https://github.com/crowcasso/ThreeCards) (final version!)
-* [Rollerball](https://github.com/crowcasso/Rollerball) (ball w/ transparent background)
+* [Three Cards](https://github.com/crowcasso/ThreeCards)
+* [Rollerball](https://github.com/crowcasso/Rollerball)
 * [Card Flip](https://github.com/crowcasso/CardFlip)
 * [Geotify](https://github.com/crowcasso/Geotify) 
 
