@@ -8,6 +8,7 @@
 * [Program 0](http://trumpy.cs.elon.edu/joel/340/Program_0.pdf)  by 23:59 TH 9/7
 
 ### Tutorials:
+* [Using the Camera](https://paper.dropbox.com/doc/Adding-the-Camera-yXmYlGvRp92oWvUAYNH6i?_tk=share_copylink)
 * [Custom Fonts](https://paper.dropbox.com/doc/Custom-Fonts-lMj93oFVAkoFlIPc0Isns)
 * [Multitouch](https://paper.dropbox.com/doc/Multitouch-Tutorial-1rM9Hx5wCPZOUGEscPx9O?_tk=share_copylink)
 
