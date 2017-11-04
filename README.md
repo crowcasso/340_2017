@@ -11,6 +11,7 @@
 * [Program 0](http://trumpy.cs.elon.edu/joel/340/Program_0.pdf)  by 23:59 TH 9/7
 
 ### Tutorials:
+* [Connecting to a Web Service](https://paper.dropbox.com/doc/Connecting-to-an-API-tAJZsKrAbz0IBhjNWzpUz?_tk=share_copylink)
 * [Using Dictionaries](https://github.com/crowcasso/Playgrounds/blob/master/DictonaryExample.playground/Contents.swift)
 * [Programmatically Adding Views](https://paper.dropbox.com/doc/Adding-Views-Programmatically-loVaHR6a8JBjuo4ETxG6q?_tk=share_copylink)
 * [Using the Camera](https://paper.dropbox.com/doc/Adding-the-Camera-yXmYlGvRp92oWvUAYNH6i?_tk=share_copylink)
@@ -18,6 +19,7 @@
 * [Multitouch](https://paper.dropbox.com/doc/Multitouch-Tutorial-1rM9Hx5wCPZOUGEscPx9O?_tk=share_copylink)
 
 ### Code:
+* [Random User](https://github.com/crowcasso/RandomUser)
 * [Multitouch](https://github.com/crowcasso/Multitouch)
 * [Three Cards](https://github.com/crowcasso/ThreeCards)
 * [Rollerball](https://github.com/crowcasso/Rollerball)
