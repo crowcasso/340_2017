@@ -2,7 +2,7 @@
 
 ### Final Project:
 * [Project](http://trumpy.cs.elon.edu/joel/340/FinalProject.pdf) (submit app code to [Dropbox](https://www.dropbox.com/request/sASfphXgQteL5bmROIW7))
-* [App Pitch](https://paper.dropbox.com/doc/App-Pitch-UpjHgvFYGrCUgJGAGQvYR?_tk=share_copylink) -- hand me piece of paper containing this information as soon as possible
+* [App Pitch](https://paper.dropbox.com/doc/App-Pitch-UpjHgvFYGrCUgJGAGQvYR?_tk=share_copylink)
 
 ### Programs:
 * [Program 4](http://trumpy.cs.elon.edu/joel/340/Program_4.pdf) (submit to [Dropbox](https://www.dropbox.com/request/LKBsr2NFuEq94V2XouJT))
