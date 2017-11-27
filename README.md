@@ -1,10 +1,10 @@
 # 340_2017
 
 ### Final Project:
+* [Project](http://trumpy.cs.elon.edu/joel/340/FinalProject.pdf) (submit app code to [Dropbox](https://www.dropbox.com/request/sASfphXgQteL5bmROIW7))
 * [App Pitch](https://paper.dropbox.com/doc/App-Pitch-UpjHgvFYGrCUgJGAGQvYR?_tk=share_copylink) -- hand me piece of paper containing this information as soon as possible
 
 ### Programs:
-* [Project](http://trumpy.cs.elon.edu/joel/340/FinalProject.pdf) (submit app code to [Dropbox](https://www.dropbox.com/request/sASfphXgQteL5bmROIW7))
 * [Program 4](http://trumpy.cs.elon.edu/joel/340/Program_4.pdf) (submit to [Dropbox](https://www.dropbox.com/request/LKBsr2NFuEq94V2XouJT))
 * [Program 3](http://trumpy.cs.elon.edu/joel/340/Program_3.pdf)  by 23:59 F 10/6
 * [Program 2](http://trumpy.cs.elon.edu/joel/340/Program_2.pdf)  by 23:59 W 9/27
