@@ -12,7 +12,7 @@
 * [Program 0](http://trumpy.cs.elon.edu/joel/340/Program_0.pdf)  by 23:59 TH 9/7
 
 ### Tutorials:
-* [Reading a Text File]](https://paper.dropbox.com/doc/Reading-An-Existing-File-vGXNaoT1JLHimZszBZgAB)
+* [Reading a Text File](https://paper.dropbox.com/doc/Reading-An-Existing-File-vGXNaoT1JLHimZszBZgAB)
 * [Connecting to a Web Service](https://paper.dropbox.com/doc/Connecting-to-an-API-tAJZsKrAbz0IBhjNWzpUz?_tk=share_copylink)
 * [Using Dictionaries](https://github.com/crowcasso/Playgrounds/blob/master/DictonaryExample.playground/Contents.swift)
 * [Programmatically Adding Views](https://paper.dropbox.com/doc/Adding-Views-Programmatically-loVaHR6a8JBjuo4ETxG6q?_tk=share_copylink)
